@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ömerfaruk</h1>
-<h3 align="center">A full stack developer from Türkiye, student at Ankara University</h3>
+<h3 align="center">An iOS developer from Türkiye, student at Ankara University</h3>
 
-- 🔭 I’m currently working on **Some NextJS projects**
+- 🔭 I’m currently working on **Some Swift UIKit projects**
 
-- 🌱 I’m currently learning **NextJS, PostgreSQL**
+- 🌱 I’m currently learning **Swift, Swift UIKit**
 
 - 👨‍💻 All of my projects are available at **www.dummylinkfornow.com**
 
